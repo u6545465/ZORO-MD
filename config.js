@@ -31,7 +31,7 @@ global.wait = '_Sedang Di Proses, Mohon Tunggu_....'
 global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
 global.multiplier = 69 
 // Apikey
-global.xyro = 'OTDhji3Xqr'
+global.xyro = 'kZHaABfTe6'
 // Catatan : Jika Mau Work Fiturnya
 // Masukan Apikeymu
 // Gapunya Apikey? Ya Daftar
@@ -44,7 +44,7 @@ global.APIs = {
 
 /*Apikey*/
 global.APIKeys = {
-    "https://api.xyroinee.xyz": "xCOpP5f36W",
+    "https://api.xyroinee.xyz": "kZHaABfTe6",
 }
 
 let file = fileURLToPath(import.meta.url)
